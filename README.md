@@ -1,1 +1,1 @@
-Application Development Activity
+Application Development ActivitY

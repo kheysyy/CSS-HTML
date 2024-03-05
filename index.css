@@ -1,0 +1,23 @@
+.container{
+    background-color: red;
+    width: 100%;
+    display: flex ;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 12px;
+    
+    }
+    
+    .card{
+    background-image: url('37.jpg');height: 70px;
+    background-position: center;
+    width: 150px; 
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    text-size-adjust: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    }
+    
